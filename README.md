@@ -38,6 +38,7 @@ To retrieve the hidden message from the encrypted image:
 
 - **encryptedImage.png** - Image containing the hidden message.
 - **tiger.jpeg** - Original image used for encryption.
+- **main.py** - code for the encryption and decryption.
 
 ## License
 
