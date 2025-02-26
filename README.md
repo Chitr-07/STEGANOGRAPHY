@@ -44,9 +44,7 @@ To retrieve the hidden message from the encrypted image:
 
 This project is open-source and available under the MIT License.
 
-## Author
 
-**SUBHRANIL GHOSH**
 
 
 
